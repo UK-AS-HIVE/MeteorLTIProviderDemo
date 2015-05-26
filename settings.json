@@ -1,0 +1,9 @@
+{
+  "public": {
+    "lti": {
+      "client_id": "consume",
+      "client_secret": "share",
+      "url": "http://localhost:8080/"
+    }
+  }
+}
